@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{B121A2F0-5C17-4808-BC60-463D5624F6CA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="lab04/MainPage.xaml.cs">
     <Files>
-      <File FileName="lab04/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="lab04/MainPage.xaml.cs" Line="41" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="lab04" expanded="True">
             <Node name="lab04" expanded="True">
-              <Node name="App.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True">
                 <Node name="MainPage.xaml.cs" selected="True" />
               </Node>
@@ -20,7 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.lab04.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.lab04.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B4983AD3-D7F0-47F8-B881-F29EB03D4487" />
+  <MonoDevelop.Ide.ItemProperties.lab04.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.034846FC-5C17-429D-BA7F-FEB6E1A8920D" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
